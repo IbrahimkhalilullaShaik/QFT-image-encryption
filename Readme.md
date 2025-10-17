@@ -15,7 +15,7 @@ It demonstrates encryption/decryption speed and fidelity using NumPy-based QFT.
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/<your-username>/QFT-Image-Encryption.git
+git clone https://github.com/<IbrahimkhalilullaShaik>/QFT-Image-Encryption.git
 cd QFT-Image-Encryption
 python -m venv venv
 source venv/bin/activate   # or venv\Scripts\activate on Windows
